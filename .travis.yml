@@ -1,4 +1,4 @@
-language: android
+language: kotlin
 android:
   components:
     - android-28
